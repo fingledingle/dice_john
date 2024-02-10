@@ -16,14 +16,6 @@ def choose_value():
   return value
 
 
-# A = choose_value()
-# print(A)
-# B = choose_value()
-# print(B)
-
-#Firrst attempt
-
-
 def compare_followers():
   from replit import clear
   from art import logo
